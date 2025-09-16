@@ -1,7 +1,7 @@
 # 🧠 Vishnu Vardhan Mamidisetti
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Data+Scientist+%F0%9F%93%8A;Deep+Learning+Engineer+%F0%9F%A7%A0;ML+Model+Architect+%F0%9F%8F%97%EF%B8%8F;Cloud+Computing+Explorer+%E2%98%81%EF%B8%8F" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Data+Scientist+%F0%9F%93%8A;Deep+Learning+Engineer+%F0%9F%A7%A0;ML+Model+Architect+%F0%9F%8F%97%EF%B8%8F;Software Developer+Explorer+%E2%98%81%EF%B8%8F" alt="Typing Animation" />
 </div>
 
 ---
@@ -59,7 +59,6 @@ print(f"Philosophy: {vishnu.get_philosophy()}")
 | **Theory of Computation** | NPTEL | ✅ Verified |
 | **Database Engineer Professional** | Meta | ✅ Verified |
 | **Data Analytics Professional** | Google | ✅ Verified |
-| **Azure Fundamentals (AZ-900)** | Microsoft | ✅ Verified |
 
 </div>
 
@@ -76,7 +75,6 @@ print(f"Philosophy: {vishnu.get_philosophy()}")
 
 ### 🤖 **Machine Learning & AI**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -96,7 +94,6 @@ print(f"Philosophy: {vishnu.get_philosophy()}")
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🏆 **Competitive Programming**
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
