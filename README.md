@@ -87,7 +87,7 @@ print(f"Motto: {vishnu.get_motto()}")
 |:---:|:---:|:---:|:---:|
 | **Data Analytics Professional** | Google | Data Science | ✅ **Certified** |
 | **Database Engineer Professional** | Meta | Database Management | ✅ **Certified** |
-| **Azure Fundamentals (AZ-900)** | Microsoft | Cloud Computing | ✅ **Certified** |
+
 | **Theory of Computation** | NPTEL | Computer Science | ✅ **Completed** |
 
 </div>
