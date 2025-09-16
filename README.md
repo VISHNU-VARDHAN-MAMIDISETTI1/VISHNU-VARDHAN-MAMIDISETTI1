@@ -1,7 +1,7 @@
 # 🧠 Vishnu Vardhan Mamidisetti
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Data+Scientist+%F0%9F%93%8A;Deep+Learning+Engineer+%F0%9F%A7%A0;ML+Model+Architect+%F0%9F%8F%97%EF%B8%8F;Software+Developer+Explorer+%E2%98%81%EF%B8%8F" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Data+Scientist+%F0%9F%93%8A;Deep+Learning+Engineer+%F0%9F%A7%A0;ML+Model+Architect+%F0%9F%8F%97%EF%B8%8F;Cloud+Computing+Explorer+%E2%98%81%EF%B8%8F" alt="Typing Animation" />
 </div>
 
 ---
@@ -59,6 +59,7 @@ print(f"Philosophy: {vishnu.get_philosophy()}")
 | **Theory of Computation** | NPTEL | ✅ Verified |
 | **Database Engineer Professional** | Meta | ✅ Verified |
 | **Data Analytics Professional** | Google | ✅ Verified |
+| **Azure Fundamentals (AZ-900)** | Microsoft | ✅ Verified |
 
 </div>
 
@@ -75,6 +76,7 @@ print(f"Philosophy: {vishnu.get_philosophy()}")
 
 ### 🤖 **Machine Learning & AI**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -94,12 +96,53 @@ print(f"Philosophy: {vishnu.get_philosophy()}")
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🏆 **Competitive Programming**
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 </details>
+
+---
+
+## 🛠️ **Tech Stack Overview**
+
+<div align="center">
+
+### 💻 **Programming Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🤖 **Machine Learning & AI**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 📊 **Data Visualization & Analysis**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+
+### 🗄️ **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ **Cloud & DevOps**
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🏆 **Competitive Platforms**
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+</div>
 
 ---
 
@@ -156,7 +199,7 @@ print(f"Philosophy: {vishnu.get_philosophy()}")
 
 ### 💻 **LeetCode Journey**
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/VishnuVardhanMamidisetti?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/yQh9pVvMW3?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 <div align="center">
@@ -166,6 +209,13 @@ print(f"Philosophy: {vishnu.get_philosophy()}")
 | **Problems Solved** | ![LeetCode Problems](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fyqh9pvvmw3&logo=leetcode&logoColor=yellow) |
 | **Current Rank** | ![LeetCode Rank](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fyqh9pvvmw3&logo=leetcode&logoColor=yellow) |
 
+</div>
+
+### 🏆 **Kaggle Competitions**
+<div align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/v2203a54013/competition/light" alt="Kaggle Competition Badge"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/v2203a54013/dataset/light" alt="Kaggle Dataset Badge"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/v2203a54013/notebook/light" alt="Kaggle Notebook Badge"/>
 </div>
 
 ### 📊 **GitHub Activity**
@@ -187,10 +237,17 @@ mindmap
       Graph Algorithms
       Complex Problem Solving
     MLOps
+      Model Deployment
+      CI/CD Pipelines
+      Model Monitoring
     System Design
       Scalable Architecture
       Distributed Systems
       Microservices
+    Cloud Architecture
+      Azure ML Services
+      Serverless Computing
+      Container Orchestration
 ```
 
 </div>
