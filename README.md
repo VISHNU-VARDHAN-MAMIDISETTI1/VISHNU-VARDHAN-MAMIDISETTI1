@@ -80,9 +80,11 @@ print(f"Philosophy: {vishnu.get_philosophy()}")
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### 📊 **Data & Visualization**
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 
@@ -94,6 +96,11 @@ print(f"Philosophy: {vishnu.get_philosophy()}")
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🏆 **Competitive Programming**
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 </details>
 
@@ -140,6 +147,7 @@ print(f"Philosophy: {vishnu.get_philosophy()}")
 
 ## 📈 Performance Analytics
 
+### 🏅 **GitHub Statistics**
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VISHNU-VARDHAN-MAMIDISETTI1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISHNU-VARDHAN-MAMIDISETTI1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
@@ -149,6 +157,28 @@ print(f"Philosophy: {vishnu.get_philosophy()}")
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VISHNU-VARDHAN-MAMIDISETTI1&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
+### 💻 **LeetCode Journey**
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/yQh9pVvMW3?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+</div>
+
+<div align="center">
+  
+| 📊 **Metric** | 📈 **Achievement** |
+|:---:|:---:|
+| **Problems Solved** | ![LeetCode Problems](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fyqh9pvvmw3&logo=leetcode&logoColor=yellow) |
+| **Current Rank** | ![LeetCode Rank](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fyqh9pvvmw3&logo=leetcode&logoColor=yellow) |
+
+</div>
+
+### 🏆 **Kaggle Competitions**
+<div align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/v2203a54013/competition/light" alt="Kaggle Competition Badge"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/v2203a54013/dataset/light" alt="Kaggle Dataset Badge"/>
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/v2203a54013/notebook/light" alt="Kaggle Notebook Badge"/>
+</div>
+
+### 📊 **GitHub Activity**
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHNU-VARDHAN-MAMIDISETTI1&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </div>
@@ -205,6 +235,9 @@ mindmap
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.vishnuvardhan35@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnu-vardhan-mamidisetti-078a2a304/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VISHNU-VARDHAN-MAMIDISETTI1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/yQh9pVvMW3/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/v2203a54013)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/15zduc7D1qOIxVt8wqwxsEk10_C10oRrqSeOtqGaHW1M/edit?tab=t.0)
 
 </div>
 
