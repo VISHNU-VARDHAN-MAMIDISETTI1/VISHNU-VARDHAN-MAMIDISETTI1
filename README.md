@@ -1,7 +1,7 @@
 # 🧠 Vishnu Vardhan Mamidisetti
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Data+Scientist+%F0%9F%93%8A;Deep+Learning+Engineer+%F0%9F%A7%A0;ML+Model+Architect+%F0%9F%8F%97%EF%B8%8F;Software Developer+Explorer+%E2%98%81%EF%B8%8F" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Data+Scientist+%F0%9F%93%8A;Deep+Learning+Engineer+%F0%9F%A7%A0;ML+Model+Architect+%F0%9F%8F%97%EF%B8%8F;Software+Developer+Explorer+%E2%98%81%EF%B8%8F" alt="Typing Animation" />
 </div>
 
 ---
