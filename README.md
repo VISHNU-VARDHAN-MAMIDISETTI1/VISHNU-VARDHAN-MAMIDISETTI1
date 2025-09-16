@@ -156,7 +156,7 @@ print(f"Philosophy: {vishnu.get_philosophy()}")
 
 ### 💻 **LeetCode Journey**
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/yQh9pVvMW3?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/VishnuVardhanMamidisetti?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 <div align="center">
