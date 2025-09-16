@@ -168,13 +168,6 @@ print(f"Philosophy: {vishnu.get_philosophy()}")
 
 </div>
 
-### 🏆 **Kaggle Competitions**
-<div align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/v2203a54013/competition/light" alt="Kaggle Competition Badge"/>
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/v2203a54013/dataset/light" alt="Kaggle Dataset Badge"/>
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/v2203a54013/notebook/light" alt="Kaggle Notebook Badge"/>
-</div>
-
 ### 📊 **GitHub Activity**
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=VISHNU-VARDHAN-MAMIDISETTI1&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
@@ -194,17 +187,10 @@ mindmap
       Graph Algorithms
       Complex Problem Solving
     MLOps
-      Model Deployment
-      CI/CD Pipelines
-      Model Monitoring
     System Design
       Scalable Architecture
       Distributed Systems
       Microservices
-    Cloud Architecture
-      Azure ML Services
-      Serverless Computing
-      Container Orchestration
 ```
 
 </div>
