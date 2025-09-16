@@ -1,39 +1,68 @@
 # 🧠 Vishnu Vardhan Mamidisetti
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Data+Scientist+%F0%9F%93%8A;Deep+Learning+Engineer+%F0%9F%A7%A0;ML+Model+Architect+%F0%9F%8F%97%EF%B8%8F;Cloud+Computing+Explorer+%E2%98%81%EF%B8%8F" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Deep+Learning+Enthusiast+%F0%9F%A7%A0;ML+Model+Architect+%F0%9F%8F%97%EF%B8%8F;Cloud+Computing+Explorer+%E2%98%81%EF%B8%8F;Academic+Excellence+%E2%AD%90+9.4+CGPA" alt="Typing Animation" />
 </div>
 
 ---
 
 ## 🎯 Professional Overview
 
-> *Transforming data into intelligent solutions through cutting-edge machine learning and deep learning techniques*
+> *"Data tells a story; I help it speak through intelligent machine learning solutions"*
 
-I'm a **high-achieving Computer Science student** with a **9.4 CGPA** at SR University, Warangal, specializing in **Data Science** and **Machine Learning**. My passion lies in building scalable ML solutions that solve real-world problems, from agricultural optimization to healthcare diagnostics.
+I'm a **high-achieving Computer Science student** with an exceptional **9.4 CGPA** at **SR University, Warangal**, specializing in **Data Science**, **Machine Learning**, and **Deep Learning**. My passion lies in transforming complex data into actionable insights and building scalable ML solutions that solve real-world agricultural and healthcare challenges.
 
 ```python
-class VishnuVardhan:
+class VishnuVardhanMamidisetti:
     def __init__(self):
-        self.role = "Aspiring Data Scientist"
-        self.education = "B.Tech CSE @ SR University"
-        self.cgpa = 9.4
-        self.passion = ["Machine Learning", "Deep Learning", "Data Analytics"]
-        self.expertise = ["Python", "TensorFlow", "PyTorch", "Cloud Computing"]
-        self.vision = "Building AI solutions that impact millions"
+        self.name = "Vishnu Vardhan Mamidisetti"
+        self.role = "Aspiring Data Scientist & ML Engineer"
+        self.education = {
+            "degree": "B.Tech Computer Science Engineering",
+            "university": "SR University, Warangal",
+            "duration": "Oct 2022 - May 2026",
+            "cgpa": 9.4,
+            "status": "High Academic Performer"
+        }
+        self.expertise = [
+            "Machine Learning", "Deep Learning", "Data Analytics",
+            "Computer Vision", "Agricultural AI", "Healthcare ML"
+        ]
+        self.tech_stack = {
+            "languages": ["Python", "SQL"],
+            "ml_frameworks": ["TensorFlow", "PyTorch", "scikit-learn"],
+            "data_tools": ["Pandas", "NumPy", "Matplotlib", "Seaborn"],
+            "cloud": ["Microsoft Azure"],
+            "databases": ["PostgreSQL", "MySQL"]
+        }
+        self.achievements = [
+            "Google Data Analytics Professional Certificate",
+            "Meta Database Engineer Professional Certificate", 
+            "Microsoft Azure Fundamentals (AZ-900)",
+            "NPTEL Theory of Computation Certificate"
+        ]
+        self.current_projects = [
+            "Intelligent Crop Prediction System",
+            "Advanced Plant Disease Detection using CNN"
+        ]
     
-    def get_philosophy(self):
-        return "Data tells a story; I help it speak."
+    def get_vision(self):
+        return "Building AI solutions that transform agriculture and healthcare industries"
+    
+    def get_motto(self):
+        return "Code with purpose, learn with passion, grow with persistence"
     
     def current_focus(self):
         return {
-            "learning": ["Advanced MLOps", "System Design", "Model Optimization"],
-            "building": ["Scalable ML Pipelines", "Production-Ready Models"],
-            "goal": "Senior Data Scientist at Top Tech Company"
+            "learning": ["Advanced DSA", "MLOps", "System Design", "Model Optimization"],
+            "building": ["Production ML Pipelines", "Scalable AI Applications"],
+            "competing": ["LeetCode Problem Solving", "Kaggle Competitions"],
+            "goal": "Data Scientist role at leading tech companies"
         }
 
-vishnu = VishnuVardhan()
-print(f"Philosophy: {vishnu.get_philosophy()}")
+vishnu = VishnuVardhanMamidisetti()
+print(f"Vision: {vishnu.get_vision()}")
+print(f"Motto: {vishnu.get_motto()}")
 ```
 
 ---
@@ -42,9 +71,9 @@ print(f"Philosophy: {vishnu.get_philosophy()}")
 
 <div align="center">
 
-| 📚 **Degree** | 🏛️ **Institution** | 📅 **Duration** | 📊 **Performance** |
-|:---:|:---:|:---:|:---:|
-| **B.Tech Computer Science** | SR University, Warangal | Oct 2022 - May 2026 | **9.4/10.0 CGPA** ⭐ |
+| 📚 **Degree** | 🏛️ **Institution** | 📅 **Duration** | 📊 **Performance** | 🎯 **Status** |
+|:---:|:---:|:---:|:---:|:---:|
+| **B.Tech Computer Science** | SR University, Warangal | Oct 2022 - May 2026 | **9.4/10.0 CGPA** ⭐ | **Top Performer** |
 
 </div>
 
@@ -54,55 +83,14 @@ print(f"Philosophy: {vishnu.get_philosophy()}")
 
 <div align="center">
 
-| 🎖️ **Certification** | 🏢 **Provider** | 🔗 **Credential** |
-|:---:|:---:|:---:|
-| **Theory of Computation** | NPTEL | ✅ Verified |
-| **Database Engineer Professional** | Meta | ✅ Verified |
-| **Data Analytics Professional** | Google | ✅ Verified |
-| **Azure Fundamentals (AZ-900)** | Microsoft | ✅ Verified |
+| 🎖️ **Certification** | 🏢 **Provider** | 📋 **Category** | 🔗 **Status** |
+|:---:|:---:|:---:|:---:|
+| **Data Analytics Professional** | Google | Data Science | ✅ **Certified** |
+| **Database Engineer Professional** | Meta | Database Management | ✅ **Certified** |
+| **Azure Fundamentals (AZ-900)** | Microsoft | Cloud Computing | ✅ **Certified** |
+| **Theory of Computation** | NPTEL | Computer Science | ✅ **Completed** |
 
 </div>
-
----
-
-## 🛠️ Technical Arsenal
-
-<details>
-<summary>📋 <b>Click to expand my complete tech stack</b></summary>
-
-### 💻 **Core Programming**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🤖 **Machine Learning & AI**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-### 📊 **Data & Visualization**
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-
-### 🗄️ **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ☁️ **Cloud & DevOps**
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🏆 **Competitive Programming**
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-
-</details>
 
 ---
 
@@ -134,9 +122,48 @@ print(f"Philosophy: {vishnu.get_philosophy()}")
 <img src="https://skillicons.dev/icons?i=azure,docker,git,jupyter" />
 
 ### 🏆 **Competitive Platforms**
-<img src="https://skillicons.dev/icons?i=leetcode,kaggle" />
+<img src="https://skillicons.dev/icons?i=leetcode" />
+<br>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
 
 </div>
+
+<details>
+<summary>📋 <b>Detailed Technical Proficiency</b></summary>
+
+### 💻 **Core Programming**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🤖 **Machine Learning & AI**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 📊 **Data & Visualization**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+
+### 🗄️ **Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ **Cloud & DevOps**
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🏆 **Competitive Programming**
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+</details>
 
 ---
 
@@ -153,9 +180,10 @@ print(f"Philosophy: {vishnu.get_philosophy()}")
           </a>
           <br><br>
           <p>
-            <b>🎯 Impact:</b> Revolutionizing agriculture through ML<br>
-            <b>🔧 Tech:</b> Python, scikit-learn, Streamlit<br>
-            <b>📊 Result:</b> 92% prediction accuracy
+            <b>🎯 Impact:</b> Revolutionizing agriculture through ML-driven crop optimization<br>
+            <b>🔧 Tech Stack:</b> Python, scikit-learn, Streamlit, Data Analysis<br>
+            <b>📊 Achievement:</b> High accuracy crop recommendations based on soil & climate<br>
+            <b>🌱 Domain:</b> Agricultural Technology & Smart Farming
           </p>
         </div>
       </td>
@@ -167,9 +195,10 @@ print(f"Philosophy: {vishnu.get_philosophy()}")
           </a>
           <br><br>
           <p>
-            <b>🎯 Impact:</b> Early disease detection for farmers<br>
-            <b>🔧 Tech:</b> CNN, Attention Models, TensorFlow<br>
-            <b>📊 Result:</b> 95% detection accuracy
+            <b>🎯 Impact:</b> Early disease detection to prevent crop losses<br>
+            <b>🔧 Tech Stack:</b> CNN, Attention Models, TensorFlow, Computer Vision<br>
+            <b>📊 Achievement:</b> High precision plant disease classification<br>
+            <b>🌱 Domain:</b> Agricultural AI & Healthcare Technology
           </p>
         </div>
       </td>
@@ -193,7 +222,7 @@ print(f"Philosophy: {vishnu.get_philosophy()}")
 
 ### 💻 **LeetCode Journey**
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/yQh9pVvMW3?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/VishnuVardhanMamidisetti?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 <div align="center">
@@ -201,15 +230,8 @@ print(f"Philosophy: {vishnu.get_philosophy()}")
 | 📊 **Metric** | 📈 **Achievement** |
 |:---:|:---:|
 | **Problems Solved** | ![LeetCode Problems](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fyqh9pvvmw3&logo=leetcode&logoColor=yellow) |
-| **Current Rank** | ![LeetCode Rank](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fyqh9pvvmw3&logo=leetcode&logoColor=yellow) |
+| **Current Ranking** | ![LeetCode Rank](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fyqh9pvvmw3&logo=leetcode&logoColor=yellow) |
 
-</div>
-
-### 🏆 **Kaggle Competitions**
-<div align="center">
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/v2203a54013/competition/light" alt="Kaggle Competition Badge"/>
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/v2203a54013/dataset/light" alt="Kaggle Dataset Badge"/>
-  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/v2203a54013/notebook/light" alt="Kaggle Notebook Badge"/>
 </div>
 
 ### 📊 **GitHub Activity**
@@ -225,44 +247,45 @@ print(f"Philosophy: {vishnu.get_philosophy()}")
 
 ```mermaid
 mindmap
-  root((Current Focus))
+  root((Vishnu's Learning Path))
     Advanced DSA
-      Dynamic Programming
+      Dynamic Programming Mastery
       Graph Algorithms
       Complex Problem Solving
-    MLOps
-      Model Deployment
-      CI/CD Pipelines
-      Model Monitoring
+      Competitive Programming
     System Design
-      Scalable Architecture
-      Distributed Systems
-      Microservices
-    Cloud Architecture
-      Azure ML Services
-      Serverless Computing
-      Container Orchestration
+      Distributed ML Systems
+      Microservices Architecture
+      Database Optimization
+      Cloud-Native Solutions
+    Specialized AI
+      Computer Vision Applications
+      NLP & Text Analytics
+      Deep Learning Optimization
+      Agricultural AI Solutions
 ```
 
 </div>
 
 ---
 
-## 🎯 Career Roadmap
+## 🎯 Career Roadmap & Goals
 
 <div align="center">
 
 | 🎯 **Short Term (2024-2025)** | 🚀 **Medium Term (2025-2027)** | 🌟 **Long Term (2027+)** |
 |:---:|:---:|:---:|
-| Master Advanced ML Algorithms | Senior Data Scientist Role | ML Research & Innovation |
-| Complete 5+ Production Projects | Lead ML Team | Tech Entrepreneurship |
-| Achieve Industry Certifications | Publish Research Papers | Global Impact Solutions |
+| ✅ Master Advanced ML Algorithms | 🎯 **Data Scientist** at Top Tech Company | 🚀 **Lead ML Engineer** Role |
+| ✅ Complete 10+ Production Projects | 📊 Lead Cross-functional ML Projects | 🌍 **AI Research & Innovation** |
+| ✅ Achieve Industry Certifications | 📝 Publish ML Research Papers | 🏢 **Tech Entrepreneurship** in AgriTech |
+| ✅ LeetCode 500+ Problems Solved | 🏆 Kaggle Competition Expert | 🌱 **Global Impact** through AI Solutions |
+| ✅ Build Professional Portfolio | 🤝 Mentor Junior Data Scientists | 📈 **Thought Leadership** in ML Community |
 
 </div>
 
 ---
 
-## 💬 Let's Connect & Collaborate
+## 📧 Connect & Collaborate
 
 <div align="center">
 
@@ -277,12 +300,23 @@ mindmap
 
 ---
 
+## 💡 Professional Philosophy
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20the%20future%20with%20AI&descAlignY=51&descAlign=center" alt="Footer"/>
+  <blockquote>
+    <p><em>"In the intersection of data science and real-world problems lies the opportunity to create meaningful impact. Every dataset tells a story, every algorithm solves a challenge, and every model has the potential to transform industries."</em></p>
+    <footer>— <strong>Vishnu Vardhan Mamidisetti</strong></footer>
+  </blockquote>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Building%20Tomorrow's%20AI%20Solutions&fontSize=16&fontAlignY=65&desc=Thanks%20for%20visiting%20my%20profile!&descAlignY=51&descAlign=center" alt="Footer"/>
 </div>
 
 <div align="center">
-  <sub>💡 <i>"In the world of data, every pattern tells a story, every algorithm solves a problem, and every model changes the future."</i></sub>
+  <sub>🚀 <i>"Excellence is not a destination but a continuous journey of learning, building, and impacting lives through technology."</i></sub>
 </div>
 
 ---
@@ -290,4 +324,5 @@ mindmap
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=VISHNU-VARDHAN-MAMIDISETTI1&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/VISHNU-VARDHAN-MAMIDISETTI1?label=Followers&style=flat-square&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/badge/Open%20for-Collaboration-brightgreen?style=flat-square" alt="Open for Collaboration" />
 </div>
