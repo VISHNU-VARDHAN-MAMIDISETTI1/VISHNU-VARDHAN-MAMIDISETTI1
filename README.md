@@ -175,7 +175,7 @@ print(f"Motto: {vishnu.get_motto()}")
       <td width="50%">
         <h3 align="center">🚜 Intelligent Crop Prediction System</h3>
         <div align="center">
-          <a href="https://github.com/VISHNU-VARDHAN-MAMIDISETTI1/Crop-Prediction-using-ml" target="_blank">
+          <a href="https://github.com/VISHNU-VARDHAN-MAMIDISETTI1/Crop-Prediction-using-ml-" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=VISHNU-VARDHAN-MAMIDISETTI1&repo=Crop-Prediction-using-ml&theme=tokyonight" alt="Crop Prediction"/>
           </a>
           <br><br>
